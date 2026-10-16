@@ -34,7 +34,7 @@ Download the latest version of S-Note for Windows:
 
 ### 📐 Smart Shape Recognition
 - Automatically transforms rough hand-drawn sketches into crisp vector shapes in real time.
-- Supports straight lines, directional arrows, rectangles, ellipses, circles, triangles, stars, curves, and mathematical square roots ($\sqrt{\phantom{x}}$).
+- Supports straight lines, directional arrows, rectangles, ellipses, circles, triangles, stars, curves, and mathematical square roots (√).
 
 ### 🪄 Natural Gestures (Scribble to Erase)
 - Erase mistakes instantly by scratching over any stroke or text.
@@ -60,7 +60,7 @@ Download the latest version of S-Note for Windows:
 
 ### ⚡ Seamless Automatic Updates
 - Built-in background updates with cryptographic signature verification.
-- Manually check for updates anytime under **Settings $\rightarrow$ Updates**.
+- Manually check for updates anytime under **Settings → Updates**.
 
 ---
 
