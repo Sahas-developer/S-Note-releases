@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="S-Note Logo" width="130" />
+  <img src="https://raw.githubusercontent.com/Sahas-developer/S-Note/main/public/logo_transparent.png" alt="S-Note Logo" width="130" />
 </p>
 
 <h1 align="center">S-Note</h1>
@@ -12,47 +12,35 @@
   <a href="https://github.com/Sahas-developer/S-Note-releases/releases/latest">
     <img src="https://img.shields.io/badge/Release-v0.2.1-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Latest Release" />
   </a>
-  <a href="#-download--install">
+  <a href="https://github.com/Sahas-developer/S-Note-releases/releases/latest">
     <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Platforms" />
   </a>
-  <a href="#-privacy--offline-first">
-    <img src="https://img.shields.io/badge/Privacy-100%25%20Offline%20First-2ea44f?style=for-the-badge&logo=shield&logoColor=white" alt="Offline First" />
-  </a>
-  <a href="https://github.com/Sahas-developer/S-Note-releases/stargazers">
-    <img src="https://img.shields.io/badge/License-Free-blue?style=for-the-badge" alt="Free License" />
-  </a>
+  <img src="https://img.shields.io/badge/Privacy-100%25%20Offline%20First-2ea44f?style=for-the-badge&logo=shield&logoColor=white" alt="Offline First" />
+  <img src="https://img.shields.io/badge/License-Free-blue?style=for-the-badge" alt="Free License" />
 </p>
 
 <p align="center">
-  <a href="#-download--install"><b>Download Now</b></a> •
-  <a href="#-key-features"><b>Key Features</b></a> •
-  <a href="#-screenshots--showcase"><b>Screenshots</b></a> •
-  <a href="#-whats-new-in-v021"><b>What's New</b></a> •
-  <a href="#-cloud-sync--backups"><b>Cloud & Backups</b></a>
+  <a href="#-download--install"><b>⬇️ Download S-Note</b></a> •
+  <a href="#-features-at-a-glance"><b>✨ Features</b></a> •
+  <a href="#-whats-new-in-v021"><b>🆕 What's New</b></a>
 </p>
 
 ---
 
-## 📸 Screenshots & Showcase
-
 <p align="center">
-  <img src="assets/banner.jpg" alt="S-Note Banner" width="85%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
+  <img src="https://raw.githubusercontent.com/Sahas-developer/S-Note/main/public/logo.jpg" alt="S-Note Hero Banner" width="95%" />
 </p>
 
-<details open>
-<summary><b>👀 Click to explore Feature Screenshots</b></summary>
-<br/>
+<!-- ============================================================== -->
+<!-- DROP YOUR SCREENSHOTS HERE: In GitHub Edit mode, drag & drop   -->
+<!-- your screenshot images right into the space below or Ctrl+V!   -->
+<!-- ============================================================== -->
 
-| 🖋️ **Natural Inking & Study Tape** | 👥 **Real-Time Collaboration** |
-|:---:|:---:|
-| <img src="assets/screenshots/preview-inking.svg" alt="Study Tape & Inking" width="100%"/><br/>*Fluorescent pens, pencils &amp; tap-to-reveal study tape* | <img src="assets/screenshots/preview-collab.svg" alt="Real-time Collaboration" width="100%"/><br/>*Multi-user live syncing with laser pointer* |
-
-| 📐 **3D Geometric Shapes** | ♾️ **Infinite Canvas & Templates** |
-|:---:|:---:|
-| <img src="assets/screenshots/preview-shapes.svg" alt="3D Shapes" width="100%"/><br/>*Cuboids, spheres, pyramids, and angle guide* | <img src="assets/screenshots/preview-canvas.svg" alt="Infinite Canvas" width="100%"/><br/>*Cornell notes, planners, and unbounded canvas* |
-
-> 💡 *Note: To view all screenshots in full resolution, check out the [`assets/screenshots`](assets/screenshots) folder.*
-</details>
+<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/bf2120f8-ea35-49e8-8a4d-f5eeff6b86ba" />
+<img width="1919" height="1033" alt="Screenshot 2026-10-24 234955" src="https://github.com/user-attachments/assets/a2b24468-cb68-4945-8a93-7de7fadbd711" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/69c1e95d-0739-4961-acbf-554bc08e1a91" />
+<img width="1179" height="260" alt="image" src="https://github.com/user-attachments/assets/8219df00-0b69-4da5-88b8-7d2c4f6f4801" />
+<img width="713" height="599" alt="image" src="https://github.com/user-attachments/assets/3ca60515-113b-4d1c-ab1d-01fa4088243a" />
 
 ---
 
@@ -82,7 +70,7 @@ Choose the build for your device from our [Releases Page](https://github.com/Sah
 
 ---
 
-## ✨ Key Features
+## ✨ Features at a Glance
 
 ### 🖋️ Ultra-Responsive Digital Inking
 - **Precision Pen Physics:** Designed for active styluses (S-Pen, Surface Pen, Apple Pencil, Wacom) with pressure dynamics, tilt sensitivity, and palm rejection.
